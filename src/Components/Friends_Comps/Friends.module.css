@@ -1,0 +1,32 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 4rem 4rem;
+  padding-bottom: 10.2rem;
+  width: 25rem;
+  background-color: white;
+  gap: 4rem;
+  border-left: solid 1px #868686;
+  border-right: solid 1px #868686;
+  position: sticky;
+  top: 0px;
+  object-fit: contain;
+  align-items: flex-start;
+  align-self: start;
+}
+
+.ul {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.header {
+  padding: 4.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #2345a4d2;
+  border-bottom: dashed 0.2rem #000000d2;
+  height: fit-content;
+}

@@ -1,0 +1,29 @@
+.left {
+  display: flex;
+}
+
+.profile_img {
+  border-radius: 100%;
+  border: solid 2px black;
+  width: 4rem;
+  height: 4rem;
+  object-fit: cover;
+}
+.profile_text {
+  margin-left: 1rem;
+  font-size: 1.5rem;
+  color: #2345a4d2;
+  font-weight: bold;
+}
+
+.card__text {
+  padding: 1rem;
+  border: solid 1px black;
+  background-color: #d3d2d2;
+  border-radius: 15px;
+}
+
+.data {
+  font-size: 1.5rem;
+  padding-left: 1rem;
+}

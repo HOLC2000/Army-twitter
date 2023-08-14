@@ -1,0 +1,29 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem 4rem 57.5rem 4rem;
+  background-color: white;
+  border-left: solid 1px #868686;
+  border-right: solid 1px #868686;
+  gap: 4rem;
+  position: sticky;
+  top: 0px;
+  object-fit: contain;
+  align-items: flex-start;
+  align-self: start;
+}
+
+.img {
+  width: 12rem;
+  height: 10rem;
+}
+
+/* RIGHT SIDE */
+
+.right {
+  padding-top: 8rem;
+  padding-left: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 4rem;
+}

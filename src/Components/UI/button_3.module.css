@@ -1,0 +1,21 @@
+.button {
+  border: none;
+  color: rgb(24, 24, 163);
+  font-size: 1.75rem;
+  max-width: 6rem;
+  margin: 1px;
+  padding: 1rem;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.button:hover {
+  font-weight: bolder;
+}
+
+.left {
+  margin-left: 12rem;
+}
+
+.right {
+}

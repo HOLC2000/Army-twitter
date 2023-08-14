@@ -1,0 +1,21 @@
+.list {
+  display: flex;
+  list-style: none;
+  border: solid 1px black;
+  padding: 1rem;
+  border-radius: 1.5rem;
+  background-color: #d3d2d2;
+  position: relative;
+  box-shadow: 0.5rem 0.5rem 1rem rgb(143, 143, 143);
+  justify-content: space-between;
+}
+
+.icon {
+  font-size: 3rem;
+  color: #2c58d3d2;
+  align-self: center;
+  cursor: pointer;
+}
+.icon:hover {
+  color: #13275ed2;
+}
